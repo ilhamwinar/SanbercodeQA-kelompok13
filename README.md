@@ -1,12 +1,16 @@
 # SanbercodeQA-kelompok13
-# Persiapan Control Unit
-- ## Konfigurasi dan Instalasi Awal
+## Nama Kelompok
+- Ilham Winar
+- Darin Zahira Aflah
+-
+-
+
+- ## Dokumen Final Project
   - Mendownload Repository
-    ```bash
-    git clone https://github.com/ilhamwinar/AVC
     ```
-  - Melakukan Konfigurasi Awal
-    ```bash
-    sudo chmod +x avc_prepare.sh
-    sudo ./avc_prepare.sh
+    
+    ```
+  - Test Cases Document Final Project 
+    ```
+    https://docs.google.com/spreadsheets/d/17l3IqQ3cZecI3xmIfjl1Ryy6EEu-kdxiG4KNEuf1B_A/edit#gid=0
     ```

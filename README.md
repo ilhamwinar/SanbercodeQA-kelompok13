@@ -17,3 +17,12 @@ tugas yang dikerjaakan untuk menjadi penilaian akhir pada bootcamp sanbercode ke
   ```
   https://docs.google.com/spreadsheets/d/17l3IqQ3cZecI3xmIfjl1Ryy6EEu-kdxiG4KNEuf1B_A/edit#gid=0
   ```
+## Urutan Testing
+### Manual Testing
+- Fungsional Testing Hover, Navbar, dan fungsi lainnya.
+### Automation Testing
+- Register
+- login
+- crud
+- practice 
+- test automation page

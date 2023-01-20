@@ -1,11 +1,13 @@
 # SanbercodeQA-kelompok13
+Berikut adalah tugas Akhir kelompok13 mengenai test plan dan test execution dari website https://itera-qa.azurewebsites.net/
+
 ## Nama Kelompok
 - Ilham Winar
 - Darin Zahira Aflah
 -
 -
 
-## Dokumen Final Project
+## Test Plan Document Final Project
 - Mendownload Repository
   ```
 
